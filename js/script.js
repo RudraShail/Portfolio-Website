@@ -87,6 +87,7 @@
 				columnWidth: 1
 			}
 		});
+		
 
 		$(".filter a").on("click", function(){
 			$(".filter a").removeClass("active");
